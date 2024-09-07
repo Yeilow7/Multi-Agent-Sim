@@ -7,17 +7,6 @@ Este proyecto implementa una simulación de un **sistema multi-agente** sobre un
 - [Características](#características)
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
-- [Ejecución](#ejecución)
-- [Descripción de los Algoritmos](#descripción-de-los-algoritmos)
-- [Archivos del Proyecto](#archivos-del-proyecto)
-- [Personalización](#personalización)
-  - [Cambiar el número de agentes y obstáculos](#cambiar-el-número-de-agentes-y-obstáculos)
-  - [Cambiar el tamaño de la cuadrícula](#cambiar-el-tamaño-de-la-cuadrícula)
-  - [Cambiar la visualización](#cambiar-la-visualización)
-- [Pruebas Unitarias](#pruebas-unitarias)
-- [Mejoras Potenciales](#mejoras-potenciales)
-- [Contribuir](#contribuir)
-- [Licencia](#licencia)
 
 ## Características
 
