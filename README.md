@@ -25,7 +25,7 @@ Este proyecto requiere **Python 3.7 o superior** y las siguientes bibliotecas:
 - **Numpy**: Para las operaciones numéricas y manejo de matrices.
 - **Scipy**: Para el algoritmo de búsqueda A*.
 
-## instalación
+## Instalación
 Puedes instalar todas las dependencias utilizando el archivo `requirements.txt`:
 
 ```bash
