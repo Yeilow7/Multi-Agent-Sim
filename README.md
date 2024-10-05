@@ -1,5 +1,7 @@
 # Simulación Multi-Agente con Q-Learning y A*
 
+![Simulacion Preview](multiagente.png)
+
 Este proyecto implementa una simulación de un **sistema multi-agente** sobre una cuadrícula, donde cada agente utiliza **Q-Learning** para aprender a moverse eficientemente hacia su objetivo mientras evita obstáculos generados aleatoriamente. También se incluye el algoritmo **A*** como alternativa para calcular rutas óptimas. La visualización de la simulación se realiza en tiempo real utilizando **Pygame**, mostrando la evolución de los agentes a medida que interactúan con el entorno.
 
 -----
